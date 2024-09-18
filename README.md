@@ -1,5 +1,5 @@
 # stock-report-data-generator
-Generate stock and report data for an asset management application
+Generate stock and report data for asset management application
 
 ### Envrionment
 - Python 3.12
